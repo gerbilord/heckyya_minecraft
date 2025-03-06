@@ -1,0 +1,17 @@
+{
+	id: "d1420e66-26d2-4a12-8336-cf8202ed03ad"
+	type: "player"
+	player_name: "Gerbil_Lord"
+	ranks: {
+		d1420e66-26d2-4a12-8336-cf8202ed03ad: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Gerbil_Lord"
+		"ftbteams:description": ""
+		"ftbteams:color": "#BB59FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

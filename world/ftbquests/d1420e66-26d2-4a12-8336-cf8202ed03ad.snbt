@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "d1420e6626d24a128336cf8202ed03ad"
+	name: "Gerbil_Lord#d1420e66"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

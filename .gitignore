@@ -1,5 +1,4 @@
 BMC4_Server_Pack_v36.zip
-# Sensitive server files to ignore
 ops.json
 whitelist.json
 banned-ips.json
@@ -8,8 +7,6 @@ server.properties
 usercache.json
 usernamecache.json
 logs/
-world/
-mods/
 config/
 defaultconfigs/
 patchouli_books/
