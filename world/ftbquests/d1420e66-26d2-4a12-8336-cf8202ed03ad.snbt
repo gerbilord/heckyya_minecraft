@@ -4,9 +4,19 @@
 	name: "Gerbil_Lord#d1420e66"
 	lock: false
 	rewards_blocked: false
-	task_progress: { }
-	started: { }
-	completed: { }
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1741370586683L
+		2574E7CF699D5B45: 1741370586683L
+		0470194500CBE26C: 1741370586683L
+		0000000000000001: 1741370586683L
+	}
+	completed: {
+		2574E7CF699D5B45: 1741370586688L
+		0470194500CBE26C: 1741370586688L
+	}
 	claimed_rewards: { }
 	player_data: { }
 }
